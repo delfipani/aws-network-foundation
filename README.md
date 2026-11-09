@@ -8,7 +8,7 @@ A hands-on learning project on AWS, built in phases. It starts with a secure acc
 
 | Phase | Goal | Status |
 |---|---|---|
-| 0 | Secure AWS account baseline | In progress |
+| 0 | Secure AWS account baseline | Done |
 | 1 | Network built manually: VPC, subnets, Internet Gateway, route tables, Security Groups, EC2 with SSH | Planned |
 | 2 | Recreate Phase 1 with Terraform, with remote state in S3 | Planned |
 | 3 | Private application behind an ALB, with NAT, an IAM role and CloudWatch | Planned |
